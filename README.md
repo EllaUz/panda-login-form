@@ -4,7 +4,7 @@ A playful, purely CSS-crafted login form featuring a cute panda holding the inpu
 
 ## 🚀 Live Demo
  
-[View the Panda Login](https://your-username.github.io/your-repo-name/)
+[View the Panda Login](https://ellauz.github.io/panda-login-form/)
 
 ## ✨ Features
 
